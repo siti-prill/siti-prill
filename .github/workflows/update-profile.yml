@@ -1,0 +1,38 @@
+name: Update Profile Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Berjalan setiap hari
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate Trophy
+      - name: Generate Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: assets/trophy.svg
+          theme: matrix # Tema hijau yang kamu inginkan
+
+      # Generate Activity Graph (Menggunakan Action dari readme-tools)
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=merko # Tema hijau
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Commit hasilnya ke repositori
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update profile images" || exit 0
+          git push
