@@ -1,7 +1,6 @@
 <!-- =========================================
-     SITI PRILL | NEON GREEN ULTRA PROFILE v2
-     Theme: Midnight + Neon Green
-     Added: Cat animations, graphs, dividers, badges
+     SITI PRILL | NEON GREEN ULTRA PROFILE
+     Fixed Images & Alternative Stable Servers
 ========================================= -->
 
 <!-- 🌈 HERO BANNER -->
@@ -191,7 +190,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=siti-prill&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=15"
+    src="https://streak-stats.demolab.com/?user=siti-prill&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=15"
     width="75%"
     alt="Contribution streak"
   />
@@ -199,13 +198,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=16A34A&point=FFFFFF&area=true&hide_border=true&custom_title=🌿%20My%20Coding%20Journey%20🌿&radius=15"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true&custom_title=🌿%20My%20Coding%20Journey%20🌿&radius=15"
     width="100%"
     alt="GitHub activity graph"
   />
 </p>
 
-<!-- 🏆 TROPHIES -->
+<!-- 🏆 TROPHIES (URL SUDAH DIPERBAIKI) -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
@@ -323,15 +322,6 @@
   🌱 Keep experimenting. Keep building. Keep growing. 🌿
   <br/>
   And never forget to <b>enjoy the journey</b> 💚
-</p>
-
-<!-- 🎯 ANIMATED GRAPH -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true&radius=15&custom_title=💚%20Contribution%20Flow%20💚"
-    width="100%"
-    alt="Contribution flow graph"
-  />
 </p>
 
 <br/>
