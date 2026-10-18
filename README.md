@@ -1,6 +1,6 @@
 <!-- =========================================
      SITI PRILL | NEON GREEN ULTRA PROFILE
-     Fixed Images & Alternative Stable Servers
+     Final Version - All Working & Merged
 ========================================= -->
 
 <!-- 🌈 HERO BANNER -->
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cats.gif" width="140" alt="Running cat animation"/>
 </p>
 
-<!-- 💫 QUICK LINKS -->
+<!-- 💫 QUICK LINKS & BADGES -->
 <p align="center">
   <a href="https://github.com/siti-prill">
     <img src="https://img.shields.io/badge/🐙_GitHub-Profile-101820?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=0d1117" alt="GitHub"/>
@@ -172,7 +172,7 @@
 
 <br/>
 
-<!-- 📊 GITHUB ANALYTICS -->
+<!-- 📊 GITHUB STATS (TANPA GRAFIK YANG RUSAK) -->
 <h2 align="center">📊 GITHUB ANALYTICS 💚</h2>
 
 <p align="center">
@@ -193,23 +193,6 @@
     src="https://streak-stats.demolab.com/?user=siti-prill&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=15"
     width="75%"
     alt="Contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true&custom_title=🌿%20My%20Coding%20Journey%20🌿&radius=15"
-    width="100%"
-    alt="GitHub activity graph"
-  />
-</p>
-
-<!-- 🏆 TROPHIES (URL SUDAH DIPERBAIKI) -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
-    width="90%"
-    alt="GitHub trophies"
   />
 </p>
 
