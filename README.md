@@ -1,13 +1,13 @@
 <!-- =========================================
-     SITI PRILL | ULTRA MODERN CUTE PROFILE
-     Theme: Midnight + Neon Green + Pastel Pink
-     Aesthetic: Cute • Modern • Glow
+     SITI PRILL | NEON GREEN ULTRA PROFILE v2
+     Theme: Midnight + Neon Green
+     Added: Cat animations, graphs, dividers, badges
 ========================================= -->
 
 <!-- 🌈 HERO BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,30:0d1117,60:064e3b,100:ec4899&height=280&section=header&text=SITI%20PRILL&fontSize=70&fontColor=39FF88&fontAlignY=34&desc=✦%20DEVELOPER%20%7C%20CREATIVE%20MIND%20%7C%20CAFFEINE%20ADDICT%20✦&descSize=16&descColor=FBCFE8&descAlignY=58&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,50:064e3b,100:0d1117&height=280&section=header&text=SITI%20PRILL&fontSize=68&fontColor=39FF88&fontAlignY=34&desc=✦%20DEVELOPER%20%7C%20CREATIVE%20MIND%20%7C%20LIFELONG%20LEARNER%20✦&descSize=16&descColor=C7F9DC&descAlignY=58&animation=twinkling"
     width="100%"
     alt="Siti Prill developer banner"
   />
@@ -16,9 +16,16 @@
 <!-- ✨ TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=720&height=60&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Welcome+to+my+little+universe+%E2%9C%A8;%3E+Learning+%E2%80%A2+Building+%E2%80%A2+Glowing+%F0%9F%8C%B8;%3E+Turning+coffee+into+code+%E2%98%95;%3E+Stay+curious%2C+stay+kind+%F0%9F%92%9A"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=720&height=60&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Welcome+to+my+digital+garden+%F0%9F%8C%B1;%3E+Learning+%E2%80%A2+Building+%E2%80%A2+Growing;%3E+Turning+coffee+into+code+%E2%98%95;%3E+Stay+curious%2C+stay+kind+%F0%9F%92%9A"
     alt="Typing animation"
   />
+</p>
+
+<!-- 🐱 RUNNING CAT DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cats.gif" width="140" alt="Running cat animation"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cats.gif" width="140" alt="Running cat animation"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cats.gif" width="140" alt="Running cat animation"/>
 </p>
 
 <!-- 💫 QUICK LINKS -->
@@ -27,7 +34,7 @@
     <img src="https://img.shields.io/badge/🐙_GitHub-Profile-101820?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=0d1117" alt="GitHub"/>
   </a>
   <a href="https://github.com/siti-prill?tab=repositories">
-    <img src="https://img.shields.io/badge/💼_My-Projects-101820?style=for-the-badge&logo=git&logoColor=FBCFE8&labelColor=0d1117" alt="Projects"/>
+    <img src="https://img.shields.io/badge/💼_My-Projects-101820?style=for-the-badge&logo=git&logoColor=39FF88&labelColor=0d1117" alt="Projects"/>
   </a>
   <a href="https://github.com/siti-prill?tab=followers">
     <img src="https://img.shields.io/github/followers/siti-prill?style=for-the-badge&logo=github&label=Followers&color=14532d&labelColor=0d1117" alt="Followers"/>
@@ -37,12 +44,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siti-prill&label=Profile%20Views&color=39FF88&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Status-Coding%20with%20💚-064e3b?style=flat-square&labelColor=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Mood-Glowing%20✨-064e3b?style=flat-square&labelColor=0d1117" alt="Mood"/>
 </p>
 
 <br/>
 
 <!-- 🌿 ABOUT ME -->
-<h2 align="center">🌸 ABOUT ME 🌸</h2>
+<h2 align="center">🌿 ABOUT ME 🌿</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✨_STATUS-Always%20Learning-064e3b?style=flat-square&labelColor=0d1117" alt="Status"/>
@@ -52,11 +60,20 @@
 </p>
 
 <p align="center">
-  <b>Hello! I'm Siti Prill</b> 👋✨
+  <b>Hello! I'm Siti Prill</b> 👋
   <br/><br/>
-  <i>🌸 A curious soul who loves turning <b>ideas</b> into <b>beautiful code</b> 🌸</i>
+  <i>🌿 A curious soul who loves turning <b>ideas</b> into <b>beautiful code</b> 🌿</i>
   <br/>
   I explore technology, build useful things, and grow a little every single day.
+</p>
+
+<!-- 🐈 CAT WITH LAPTOP -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+    width="200"
+    alt="Cat working on laptop"
+  />
 </p>
 
 <table>
@@ -80,6 +97,13 @@
 
 <br/>
 
+<!-- ═══════════ ANIMATED DIVIDER ═══════════ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
+</p>
+
+<br/>
+
 <!-- 🌐 SOCIAL -->
 <h2 align="center">🌐 LET'S CONNECT 💌</h2>
 
@@ -95,7 +119,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FBCFE8" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=39FF88" alt="TikTok"/>
   </a>
   <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -142,12 +166,19 @@
 
 <br/>
 
+<!-- ═══════════ ANIMATED LINE DIVIDER ═══════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line"/>
+</p>
+
+<br/>
+
 <!-- 📊 GITHUB ANALYTICS -->
 <h2 align="center">📊 GITHUB ANALYTICS 💚</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=siti-prill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=FBCFE8&text_color=E6EDF3&rank_icon=github&border_radius=15"
+    src="https://github-readme-stats.vercel.app/api?username=siti-prill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=E6EDF3&rank_icon=github&border_radius=15"
     width="49%"
     alt="GitHub statistics"
   />
@@ -160,7 +191,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=siti-prill&hide_border=true&background=0D1117&ring=39FF88&fire=FBCFE8&currStreakLabel=39FF88&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=15"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=siti-prill&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=15"
     width="75%"
     alt="Contribution streak"
   />
@@ -168,9 +199,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=FBCFE8&point=FFFFFF&area=true&hide_border=true&custom_title=✨%20My%20Coding%20Journey%20✨&radius=15"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=16A34A&point=FFFFFF&area=true&hide_border=true&custom_title=🌿%20My%20Coding%20Journey%20🌿&radius=15"
     width="100%"
     alt="GitHub activity graph"
+  />
+</p>
+
+<!-- 🏆 TROPHIES -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
+    width="90%"
+    alt="GitHub trophies"
   />
 </p>
 
@@ -211,7 +251,7 @@
       <h3>✨ More Projects</h3>
       <p>Discover experiments, learning projects & future ideas.</p>
       <img src="https://img.shields.io/badge/Build-39FF88?style=flat-square&labelColor=0D1117"/>
-      <img src="https://img.shields.io/badge/Create-FBCFE8?style=flat-square&labelColor=0D1117"/>
+      <img src="https://img.shields.io/badge/Create-39FF88?style=flat-square&labelColor=0D1117"/>
       <br/><br/>
       <a href="https://github.com/siti-prill?tab=repositories">↗ View all repositories</a>
     </td>
@@ -234,7 +274,7 @@
 <br/>
 
 <!-- 🐈 CODING CAT -->
-<h2 align="center">🐈 CODING COMPANION 🌸</h2>
+<h2 align="center">🐈 CODING COMPANION 🌿</h2>
 
 <p align="center">
   <img
@@ -243,11 +283,29 @@
     alt="Animated coding cat"
   />
   <br/>
-  <b>Meow! Keep coding, keep glowing ✨💚</b>
+  <b>Meow! Keep coding, keep growing ✨💚</b>
+</p>
+
+<br/>
+
+<!-- 🎮 ANIMATED CATS PLAYING -->
+<h2 align="center">🐱 CATS IN ACTION 🐱</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="150" alt="cat typing"/>
+  <img src="https://media.giphy.com/media/mCSvp6OvXH5xS/giphy.gif" width="150" alt="cat playing"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" alt="cat sleeping"/>
 </p>
 
 <p align="center">
-  🌸 🌿 🌼 🌱 💚 🌷 🌿 🌸 🐾 ✨ 🌸
+  <i>Coding • Playing • Napping — the perfect dev life 🐾</i>
+</p>
+
+<br/>
+
+<!-- 🌿 ANIMATED LEAVES DIVIDER -->
+<p align="center">
+  🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿
 </p>
 
 <br/>
@@ -262,9 +320,18 @@
 <p align="center">
   <i>"Every expert was once a beginner."</i>
   <br/><br/>
-  🌱 Keep experimenting. Keep building. Keep growing. 🌸
+  🌱 Keep experimenting. Keep building. Keep growing. 🌿
   <br/>
   And never forget to <b>enjoy the journey</b> 💚
+</p>
+
+<!-- 🎯 ANIMATED GRAPH -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true&radius=15&custom_title=💚%20Contribution%20Flow%20💚"
+    width="100%"
+    alt="Contribution flow graph"
+  />
 </p>
 
 <br/>
@@ -272,19 +339,19 @@
 <!-- 🌟 FOOTER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,40:064e3b,100:050807&height=170&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=28&fontColor=39FF88&fontAlignY=65&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:064e3b,100:050807&height=170&section=footer&text=Thanks%20for%20visiting!%20🌿&fontSize=28&fontColor=39FF88&fontAlignY=65&animation=twinkling"
     width="100%"
     alt="Thanks for visiting"
   />
 </p>
 
 <p align="center">
-  <b>Designed with 💚 & 🌸 by Siti Prill</b>
+  <b>Designed with 💚 by Siti Prill</b>
   <br/>
   <sub>✨ Powered by curiosity, creativity, coffee & code ✨</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-💚%20%26%20🌸-0d1117?style=for-the-badge&labelColor=064e3b" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Stay-Curious!-0d1117?style=for-the-badge&labelColor=ec4899" alt="Stay curious"/>
+  <img src="https://img.shields.io/badge/Made%20with-💚%20%26%20🌿-0d1117?style=for-the-badge&labelColor=064e3b" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Stay-Curious!-0d1117?style=for-the-badge&labelColor=14532d" alt="Stay curious"/>
 </p>
