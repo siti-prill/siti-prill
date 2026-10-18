@@ -1,6 +1,6 @@
 <!-- =========================================
-     SITI PRILL | NEON GREEN ULTRA PROFILE
-     Final Version - All Working & Merged
+     SITI PRILL | FINAL ULTIMATE PROFILE
+     Theme: Neon Green + Cartoons + Graphs
 ========================================= -->
 
 <!-- 🌈 HERO BANNER -->
@@ -48,7 +48,7 @@
 
 <br/>
 
-<!-- 🌿 ABOUT ME -->
+<!-- 🌿 ABOUT ME DENGAN KARTUN -->
 <h2 align="center">🌿 ABOUT ME 🌿</h2>
 
 <p align="center">
@@ -58,22 +58,28 @@
   <img src="https://img.shields.io/badge/☕_FUEL-Coffee%20%26%20Code-064e3b?style=flat-square&labelColor=0d1117" alt="Fuel"/>
 </p>
 
-<p align="center">
-  <b>Hello! I'm Siti Prill</b> 👋
-  <br/><br/>
-  <i>🌿 A curious soul who loves turning <b>ideas</b> into <b>beautiful code</b> 🌿</i>
-  <br/>
-  I explore technology, build useful things, and grow a little every single day.
-</p>
-
-<!-- 🐈 CAT WITH LAPTOP -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
-    width="200"
-    alt="Cat working on laptop"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td width="60%" align="center">
+      <p align="left">
+        <b>Hello! I'm Siti Prill</b> 👋
+        <br/><br/>
+        <i>🌿 A curious soul who loves turning <b>ideas</b> into <b>beautiful code</b> 🌿</i>
+        <br/><br/>
+        I explore technology, build useful things, and grow a little every single day. I believe that every line of code is a step towards something amazing!
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <!-- KARTUN GADIS CODING -->
+      <img 
+        src="https://cdn.dribbble.com/users/285475/screenshots/2215885/media/3f2e1d238ac06b2e5b13a187d8281f84.gif" 
+        width="200" 
+        alt="Cartoon girl coding illustration"
+        style="border-radius: 20px;"
+      />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -105,61 +111,37 @@
 
 <!-- 🌐 SOCIAL -->
 <h2 align="center">🌐 LET'S CONNECT 💌</h2>
-
 <p align="center">
   <i>Find me around the internet — click an icon to say hi! ✨</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/siti-prill" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=39FF88" alt="TikTok"/>
-  </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <a href="https://github.com/siti-prill" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"/></a>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=39FF88" alt="TikTok"/></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
-
 <p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_USER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/YOUR_USER_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
 
 <!-- ⚡ TECH STACK -->
 <h2 align="center">⚡ TECH STACK & TOOLS 🛠️</h2>
-
 <p align="center">
-  <b>💻 LANGUAGES</b>
-  <br/><br/>
+  <b>💻 LANGUAGES</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="HTML CSS JavaScript PHP"/>
 </p>
-
 <p align="center">
-  <b>🚀 FRAMEWORKS & BACKEND</b>
-  <br/><br/>
+  <b>🚀 FRAMEWORKS & BACKEND</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,react&theme=dark" alt="Laravel Bootstrap Node.js React"/>
 </p>
-
 <p align="center">
-  <b>🗄️ DATABASE & WORKFLOW</b>
-  <br/><br/>
+  <b>🗄️ DATABASE & WORKFLOW</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,figma&theme=dark" alt="MySQL Git GitHub VS Code Linux Figma"/>
 </p>
 
@@ -172,7 +154,7 @@
 
 <br/>
 
-<!-- 📊 GITHUB STATS (TANPA GRAFIK YANG RUSAK) -->
+<!-- 📊 GITHUB ANALYTICS & GRAPHS -->
 <h2 align="center">📊 GITHUB ANALYTICS 💚</h2>
 
 <p align="center">
@@ -196,11 +178,28 @@
   />
 </p>
 
+<!-- 📈 GRAFIK AKTIVITAS -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true&custom_title=🌿%20My%20Coding%20Journey%20🌿&radius=15"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</p>
+
+<!-- 🏆 TROFI GITHUB -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
+    width="90%"
+    alt="GitHub trophies"
+  />
+</p>
+
 <br/>
 
 <!-- 🚀 PROJECTS -->
 <h2 align="center">🚀 PROJECT SHOWCASE ✨</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -244,7 +243,6 @@
 
 <!-- 🐍 SNAKE -->
 <h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -255,32 +253,24 @@
 
 <br/>
 
-<!-- 🐈 CODING CAT -->
-<h2 align="center">🐈 CODING COMPANION 🌿</h2>
+<!-- 🎨 ART & ANIMATION -->
+<h2 align="center">🎨 ART & ANIMATION 🐈</h2>
 
+<!-- Kartun Ilustrasi -->
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-    width="180"
-    alt="Animated coding cat"
-  />
-  <br/>
-  <b>Meow! Keep coding, keep growing ✨💚</b>
+  <img src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/attachments/1175071/ezgif-4-8b4e078ff8.gif" width="250" alt="Cartoon illustration working"/>
+  <img src="https://cdn.dribbble.com/users/1358460/screenshots/5986736/attachments/1287396/artboard_1_copy_4x.png" width="180" alt="Cartoon illustration reading"/>
 </p>
 
-<br/>
-
-<!-- 🎮 ANIMATED CATS PLAYING -->
-<h2 align="center">🐱 CATS IN ACTION 🐱</h2>
-
+<!-- Animasi Kucing -->
 <p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="150" alt="cat typing"/>
-  <img src="https://media.giphy.com/media/mCSvp6OvXH5xS/giphy.gif" width="150" alt="cat playing"/>
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" alt="cat sleeping"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Cat coding"/>
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="160" alt="Cat typing"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160" alt="Cat sleeping"/>
 </p>
 
 <p align="center">
-  <i>Coding • Playing • Napping — the perfect dev life 🐾</i>
+  <i>Kartun, kucing, dan kopi — kombinasi sempurna untuk coding! ☕🐾</i>
 </p>
 
 <br/>
@@ -290,18 +280,13 @@
   🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿
 </p>
 
-<br/>
-
 <!-- 💚 PHILOSOPHY -->
 <h2 align="center">💚 MY DEVELOPER PHILOSOPHY 💚</h2>
-
 <p align="center">
   <code>while (alive) { learn(); build(); improve(); smile(); }</code>
 </p>
-
 <p align="center">
-  <i>"Every expert was once a beginner."</i>
-  <br/><br/>
+  <i>"Every expert was once a beginner."</i><br/><br/>
   🌱 Keep experimenting. Keep building. Keep growing. 🌿
   <br/>
   And never forget to <b>enjoy the journey</b> 💚
@@ -317,13 +302,11 @@
     alt="Thanks for visiting"
   />
 </p>
-
 <p align="center">
   <b>Designed with 💚 by Siti Prill</b>
   <br/>
   <sub>✨ Powered by curiosity, creativity, coffee & code ✨</sub>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-💚%20%26%20🌿-0d1117?style=for-the-badge&labelColor=064e3b" alt="Made with love"/>
   <img src="https://img.shields.io/badge/Stay-Curious!-0d1117?style=for-the-badge&labelColor=14532d" alt="Stay curious"/>
