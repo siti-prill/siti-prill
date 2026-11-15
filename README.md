@@ -1,21 +1,21 @@
-<!-- ═══════════════ HEADER — INFERNO WAVE ═══════════════ -->
+<!-- ═══════════════ HEADER — CYBER AZURE ═══════════════ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,35:8B0000,65:FF0033,100:FF4500&height=350&section=header&text=SITI%20PRILL&fontSize=84&fontColor=FF1744&fontAlignY=28&desc=%F0%9F%94%A5%20INFERNO%20OVERDRIVE%20%E2%80%A2%20%5B%20MECHA%20PILOT%20%5D%20%E2%80%A2%20CODE%20%3D%20WEAPON&descSize=20&descColor=FFD700&descAlignY=56&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,35:001D3D,65:003566,100:0077B6&height=350&section=header&text=SITI%20PRILL&fontSize=84&fontColor=00F5FF&fontAlignY=28&desc=%E2%9A%A1%20CYBER%20AZURE%20%E2%80%A2%20%5B%20MECHA%20PILOT%20%5D%20%E2%80%A2%20CODE%20%3D%20WEAPON&descSize=20&descColor=FFD700&descAlignY=56&animation=twinkling"
     width="100%"
-    alt="Siti Prill — Inferno Overdrive"
+    alt="Siti Prill — Cyber Azure"
   />
 </p>
 
-<!-- 🔥 TYPING ANIMATION -->
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=1500&pause=400&color=FF1744&center=true&vCenter=true&width=880&height=70&lines=%3E+booting+inferno.overdrive...;%3E+reactor+core+%5B%E2%9C%93%5D+critical;%3E+mecha+linked.+sync+100%25;%3E+enemy+detected%3A+bugs;%3E+deploying+code+weapons...;%3E+%5B+OVERDRIVE+MODE%3A+ON+%5D;%3E+%5B+TARGET+LOCKED+%5D"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=1500&pause=400&color=00F5FF&center=true&vCenter=true&width=880&height=70&lines=%3E+booting+cyber.azure...;%3E+reactor+core+%5B%E2%9C%93%5D+critical;%3E+mecha+linked.+sync+100%25;%3E+enemy+detected%3A+bugs;%3E+deploying+code+weapons...;%3E+%5B+OVERDRIVE+MODE%3A+ON+%5D;%3E+%5B+TARGET+LOCKED+%5D"
     alt="Typing"
   />
 </p>
 
-<!-- 🔥 SCANLINE DIVIDER -->
+<!-- ⚡ SCANLINE DIVIDER -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="scanline divider"/>
 </p>
@@ -23,45 +23,45 @@
 <!-- ⚔️ QUICK BADGES -->
 <p align="center">
   <a href="https://github.com/siti-prill">
-    <img src="https://img.shields.io/badge/🔥_OVERDRIVE-GITHUB-050000?style=for-the-badge&logo=github&logoColor=FF1744&labelColor=3a0000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/⚡_OVERDRIVE-GITHUB-000814?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=001D3D" alt="GitHub"/>
   </a>
   <a href="https://github.com/siti-prill?tab=repositories">
-    <img src="https://img.shields.io/badge/🤖_MECHA-ARSENAL-050000?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=3a0000" alt="Repos"/>
+    <img src="https://img.shields.io/badge/🤖_MECHA-ARSENAL-000814?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=001D3D" alt="Repos"/>
   </a>
   <a href="https://github.com/siti-prill?tab=followers">
-    <img src="https://img.shields.io/github/followers/siti-prill?style=for-the-badge&logo=github&label=SQUAD&color=3a0000&labelColor=050000" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/siti-prill?style=for-the-badge&logo=github&label=SQUAD&color=001D3D&labelColor=000814" alt="Followers"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siti-prill&label=RECON%20SCANS&color=8B0000&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/badge/STATUS-OVERDRIVE-3a0000?style=flat-square&labelColor=050000" alt="status"/>
-  <img src="https://img.shields.io/badge/CORE-CRITICAL-3a0000?style=flat-square&labelColor=050000" alt="core"/>
-  <img src="https://img.shields.io/badge/THREAT-MAXIMUM-3a0000?style=flat-square&labelColor=050000" alt="threat"/>
-  <img src="https://img.shields.io/badge/CLEARANCE-TOP%20SECRET-3a0000?style=flat-square&labelColor=050000" alt="clearance"/>
+  <img src="https://komarev.com/ghpvc/?username=siti-prill&label=RECON%20SCANS&color=0077B6&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/badge/STATUS-OVERDRIVE-0077B6?style=flat-square&labelColor=000814" alt="status"/>
+  <img src="https://img.shields.io/badge/CORE-CRITICAL-0077B6?style=flat-square&labelColor=000814" alt="core"/>
+  <img src="https://img.shields.io/badge/THREAT-MAXIMUM-0077B6?style=flat-square&labelColor=000814" alt="threat"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-TOP%20SECRET-0077B6?style=flat-square&labelColor=000814" alt="clearance"/>
 </p>
 
 <br/>
 
-<!-- ═══════════════ MECHA BATTLE GRID (BARU) ═══════════════ -->
+<!-- ═══════════════ MECHA BATTLE GRID ═══════════════ -->
 <h2 align="center">🤖 // MECHA BATTLE GRID</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKu8Nk1FqY1n8GQ/giphy.gif" width="200" alt="Mecha idle" style="border-radius:10px; border: 2px solid #FF1744; box-shadow: 0 0 35px #8B0000;"/>
-  <img src="https://media.giphy.com/media/l3vR6aasfs0Ae3qdG/giphy.gif" width="200" alt="Mecha walking" style="border-radius:10px; border: 2px solid #FF1744; box-shadow: 0 0 35px #8B0000;"/>
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" alt="Mecha scan" style="border-radius:10px; border: 2px solid #FF1744; box-shadow: 0 0 35px #8B0000;"/>
-  <img src="https://media.giphy.com/media/xUOwGdHnBqQYwJQXfi/giphy.gif" width="200" alt="Mecha patrol" style="border-radius:10px; border: 2px solid #FF1744; box-shadow: 0 0 35px #8B0000;"/>
+  <img src="https://media.giphy.com/media/3o7TKu8Nk1FqY1n8GQ/giphy.gif" width="200" alt="Mecha idle" style="border-radius:10px; border: 2px solid #00F5FF; box-shadow: 0 0 35px #0077B6;"/>
+  <img src="https://media.giphy.com/media/l3vR6aasfs0Ae3qdG/giphy.gif" width="200" alt="Mecha walking" style="border-radius:10px; border: 2px solid #00F5FF; box-shadow: 0 0 35px #0077B6;"/>
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="200" alt="Mecha scan" style="border-radius:10px; border: 2px solid #00F5FF; box-shadow: 0 0 35px #0077B6;"/>
+  <img src="https://media.giphy.com/media/xUOwGdHnBqQYwJQXfi/giphy.gif" width="200" alt="Mecha patrol" style="border-radius:10px; border: 2px solid #00F5FF; box-shadow: 0 0 35px #0077B6;"/>
 </p>
 
 <p align="center">
   <b>⚠️ MECHA UNIT ONLINE — ALL SYSTEMS NOMINAL ⚠️</b>
   <br/>
-  <i>Pilot linked. Reactor critical. Weapons armed. Ready to deploy. 🤖🔥</i>
+  <i>Pilot linked. Reactor critical. Weapons armed. Ready to deploy. 🤖⚡</i>
 </p>
 
 <br/>
 
-<!-- ═══════════════ SYSTEM DIAGNOSTICS (BARU) ═══════════════ -->
+<!-- ═══════════════ SYSTEM DIAGNOSTICS ═══════════════ -->
 <h2 align="center">⚙️ // SYSTEM DIAGNOSTICS</h2>
 
 <p align="center">
@@ -79,18 +79,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DIAGNOSTICS-ALL%20GREEN-3a0000?style=flat-square&labelColor=050000&logoColor=FF1744" alt="diag"/>
-  <img src="https://img.shields.io/badge/REACTOR-STABLE-3a0000?style=flat-square&labelColor=050000" alt="reactor"/>
-  <img src="https://img.shields.io/badge/WEAPONS-ARMED-3a0000?style=flat-square&labelColor=050000" alt="weapons"/>
+  <img src="https://img.shields.io/badge/DIAGNOSTICS-ALL%20GREEN-0077B6?style=flat-square&labelColor=000814&logoColor=00F5FF" alt="diag"/>
+  <img src="https://img.shields.io/badge/REACTOR-STABLE-0077B6?style=flat-square&labelColor=000814" alt="reactor"/>
+  <img src="https://img.shields.io/badge/WEAPONS-ARMED-0077B6?style=flat-square&labelColor=000814" alt="weapons"/>
 </p>
 
 <br/>
 
-<!-- ═══════════════ TARGET LOCK (BARU) ═══════════════ -->
+<!-- ═══════════════ TARGET LOCK ═══════════════ -->
 <h2 align="center">🎯 // TARGET LOCK</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKu8Nk1FqY1n8GQ/giphy.gif" width="180" alt="Target lock" style="border-radius:50%; border: 3px solid #FFD700; box-shadow: 0 0 40px #FF4500;"/>
+  <img src="https://media.giphy.com/media/3o7TKu8Nk1FqY1n8GQ/giphy.gif" width="180" alt="Target lock" style="border-radius:50%; border: 3px solid #FFD700; box-shadow: 0 0 40px #00F5FF;"/>
 </p>
 
 <p align="center">
@@ -104,8 +104,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_TARGET-LOCKED-3a0000?style=for-the-badge&labelColor=050000" alt="target"/>
-  <img src="https://img.shields.io/badge/💀_BUGS-ELIMINATED-3a0000?style=for-the-badge&labelColor=050000" alt="bugs"/>
+  <img src="https://img.shields.io/badge/🎯_TARGET-LOCKED-0077B6?style=for-the-badge&labelColor=000814" alt="target"/>
+  <img src="https://img.shields.io/badge/💀_BUGS-ELIMINATED-0077B6?style=for-the-badge&labelColor=000814" alt="bugs"/>
 </p>
 
 <br/>
@@ -114,18 +114,18 @@
 <h2 align="center">⚔️ // CRIMSON OPERATOR</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_ROLE-FULLSTACK%20DEV-3a0000?style=flat-square&labelColor=050000" alt="role"/>
-  <img src="https://img.shields.io/badge/🤖_UNIT-MECHA%20PILOT-3a0000?style=flat-square&labelColor=050000" alt="unit"/>
-  <img src="https://img.shields.io/badge/💀_CLASS-CODE%20ASSASSIN-3a0000?style=flat-square&labelColor=050000" alt="class"/>
-  <img src="https://img.shields.io/badge/🔥_PERK-ZERO%20BUGS-3a0000?style=flat-square&labelColor=050000" alt="perk"/>
-  <img src="https://img.shields.io/badge/⚡_MODE-OVERDRIVE-3a0000?style=flat-square&labelColor=050000" alt="mode"/>
+  <img src="https://img.shields.io/badge/🎯_ROLE-FULLSTACK%20DEV-0077B6?style=flat-square&labelColor=000814" alt="role"/>
+  <img src="https://img.shields.io/badge/🤖_UNIT-MECHA%20PILOT-0077B6?style=flat-square&labelColor=000814" alt="unit"/>
+  <img src="https://img.shields.io/badge/💀_CLASS-CODE%20ASSASSIN-0077B6?style=flat-square&labelColor=000814" alt="class"/>
+  <img src="https://img.shields.io/badge/⚡_PERK-ZERO%20BUGS-0077B6?style=flat-square&labelColor=000814" alt="perk"/>
+  <img src="https://img.shields.io/badge/🔥_MODE-OVERDRIVE-0077B6?style=flat-square&labelColor=000814" alt="mode"/>
 </p>
 
 <table align="center">
   <tr>
     <td width="60%" valign="middle">
       <p align="left">
-        <b>Yo. I'm Siti Prill.</b> 🩸🤖🔥
+        <b>Yo. I'm Siti Prill.</b> ⚡🤖💠
         <br/><br/>
         <i>I don't write code. I <b>pilot a mecha of logic</b> into battle.</i>
         <br/><br/>
@@ -139,7 +139,7 @@
         src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" 
         width="230" 
         alt="Hacker mecha"
-        style="border-radius: 10px; border: 2px solid #FF1744; box-shadow: 0 0 35px #8B0000;"
+        style="border-radius: 10px; border: 2px solid #00F5FF; box-shadow: 0 0 35px #0077B6;"
       />
     </td>
   </tr>
@@ -156,7 +156,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3>⚔️ CODE OF HONOR</h3>
-      <p>🔥 Ship or shut up</p>
+      <p>⚡ Ship or shut up</p>
       <p>🛠️ Build things that last</p>
       <p>📈 Level up every day</p>
       <p>💀 Stay hungry. Stay sharp.</p>
@@ -180,9 +180,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/siti-prill" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF1744" alt="GitHub"/></a>
+  <a href="https://github.com/siti-prill" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/></a>
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FF4500" alt="TikTok"/></a>
+  <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00F5FF" alt="TikTok"/></a>
   <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 <p align="center">
@@ -218,12 +218,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=siti-prill&show_icons=true&hide_border=true&bg_color=050000&title_color=FF1744&icon_color=FFD700&text_color=F5E6E6&rank_icon=github&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api?username=siti-prill&show_icons=true&hide_border=true&bg_color=000814&title_color=00F5FF&icon_color=FFD700&text_color=E0F2FF&rank_icon=github&border_radius=8"
     width="49%"
     alt="stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siti-prill&layout=compact&hide_border=true&bg_color=050000&title_color=FF1744&text_color=F5E6E6&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siti-prill&layout=compact&hide_border=true&bg_color=000814&title_color=00F5FF&text_color=E0F2FF&border_radius=8"
     width="41%"
     alt="langs"
   />
@@ -231,7 +231,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=siti-prill&hide_border=true&background=050000&ring=FF1744&fire=FFD700&currStreakLabel=FF1744&sideLabels=F5E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B0000&border_radius=8"
+    src="https://streak-stats.demolab.com/?user=siti-prill&hide_border=true&background=000814&ring=00F5FF&fire=FFD700&currStreakLabel=00F5FF&sideLabels=E0F2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=0077B6&border_radius=8"
     width="75%"
     alt="streak"
   />
@@ -239,7 +239,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=050000&color=FF1744&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=🔥%20KILL%20STREAK%20🔥&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siti-prill&bg_color=000814&color=00F5FF&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20KILL%20STREAK%20⚡&radius=8"
     width="100%"
     alt="activity"
   />
@@ -247,7 +247,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
+    src="https://github-profile-trophy.vercel.app/?username=siti-prill&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
     width="90%"
     alt="trophies"
   />
@@ -288,8 +288,8 @@
     <td width="50%" valign="top">
       <h3>🤖 Classified <code>[IN PROGRESS]</code></h3>
       <p>New build in the works. Mecha-class project.</p>
-      <img src="https://img.shields.io/badge/BUILD-FF4500?style=flat-square&labelColor=050000"/>
-      <img src="https://img.shields.io/badge/SHIP-FF1744?style=flat-square&labelColor=050000"/>
+      <img src="https://img.shields.io/badge/BUILD-00F5FF?style=flat-square&labelColor=000814"/>
+      <img src="https://img.shields.io/badge/SHIP-0077B6?style=flat-square&labelColor=000814"/>
       <br/><br/>
       <a href="https://github.com/siti-prill?tab=repositories">↗ OPEN ARSENAL</a>
     </td>
@@ -314,14 +314,14 @@
 <h2 align="center">🤖 // SIGNAL FEED</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="code" style="border-radius:8px; border: 2px solid #8B0000;"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="hacker" style="border-radius:8px; border: 2px solid #8B0000;"/>
-  <img src="https://media.giphy.com/media/xUOwGdHnBqQYwJQXfi/giphy.gif" width="220" alt="robot" style="border-radius:8px; border: 2px solid #8B0000;"/>
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="220" alt="mecha" style="border-radius:8px; border: 2px solid #8B0000;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="code" style="border-radius:8px; border: 2px solid #0077B6;"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="hacker" style="border-radius:8px; border: 2px solid #0077B6;"/>
+  <img src="https://media.giphy.com/media/xUOwGdHnBqQYwJQXfi/giphy.gif" width="220" alt="robot" style="border-radius:8px; border: 2px solid #0077B6;"/>
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="220" alt="mecha" style="border-radius:8px; border: 2px solid #0077B6;"/>
 </p>
 
 <p align="center">
-  <i>Build. Break. Learn. Repeat. 🤖🔥</i>
+  <i>Build. Break. Learn. Repeat. 🤖⚡</i>
 </p>
 
 <br/>
@@ -333,25 +333,25 @@
 </p>
 <p align="center">
   <i>"Amateurs practice until they get it right.<br/>Pros practice until they can't get it wrong."</i><br/><br/>
-  Stay hungry. Stay sharp. Keep shipping. 🩸🔥🤖
+  Stay hungry. Stay sharp. Keep shipping. ⚡💠🤖
 </p>
 
 <br/>
 
-<!-- ═══════════════ FOOTER — INFERNO ═══════════════ -->
+<!-- ═══════════════ FOOTER — CYBER AZURE ═══════════════ -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:FF4500,60:FF0033,100:050000&height=210&section=footer&text=OVERDRIVE%20ENGAGED.%20🔥&fontSize=30&fontColor=FF1744&fontAlignY=65&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:00F5FF,60:0077B6,100:000814&height=210&section=footer&text=OVERDRIVE%20ENGAGED.%20⚡&fontSize=30&fontColor=00F5FF&fontAlignY=65&animation=twinkling"
     width="100%"
     alt="footer"
   />
 </p>
 <p align="center">
-  <b>Forged in blood, code, steel & fire 🩸🤖🔥</b>
+  <b>Forged in code, steel & lightning ⚡🤖💠</b>
   <br/>
-  <sub>Logic. Caffeine. Chaos. Crimson. Mecha. Inferno.</sub>
+  <sub>Logic. Caffeine. Chaos. Azure. Mecha. Cyber.</sub>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MADE_WITH-🩸%20%26%20🤖%20%26%20🔥-050000?style=for-the-badge&labelColor=3a0000" alt="made"/>
-  <img src="https://img.shields.io/badge/STAY-HUNGRY!-050000?style=for-the-badge&labelColor=3a0000" alt="hungry"/>
+  <img src="https://img.shields.io/badge/MADE_WITH-⚡%20%26%20🤖%20%26%20💠-000814?style=for-the-badge&labelColor=001D3D" alt="made"/>
+  <img src="https://img.shields.io/badge/STAY-HUNGRY!-000814?style=for-the-badge&labelColor=001D3D" alt="hungry"/>
 </p>
