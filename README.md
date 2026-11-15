@@ -1,9 +1,3 @@
-<!-- =========================================
-     SITI PRILL | FINAL ULTIMATE PROFILE
-     Theme: Neon Green + Cartoons + Graphs
-========================================= -->
-
-<!-- 🌈 HERO BANNER -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,50:064e3b,100:0d1117&height=280&section=header&text=SITI%20PRILL&fontSize=68&fontColor=39FF88&fontAlignY=34&desc=✦%20DEVELOPER%20%7C%20CREATIVE%20MIND%20%7C%20LIFELONG%20LEARNER%20✦&descSize=16&descColor=C7F9DC&descAlignY=58&animation=twinkling"
